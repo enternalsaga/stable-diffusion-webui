@@ -38,3 +38,7 @@ notification.mp3
 /package-lock.json
 /.coverage*
 /test/test_outputs
+/.tmp.drivedownload
+/.tmp.driveupload
+/cache
+/stable-diffusion-webui_cache
