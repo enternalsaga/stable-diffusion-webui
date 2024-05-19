@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Ponystyle Safe Anime",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_anime, rating_safe",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_cartoon, source_furry, source_pony"
+  },
+  {
+    "name": "Ponystyle Safe Cartoon",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_cartoon, rating_safe",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_furry, source_pony"
+  },
+  {
+    "name": "Ponystyle Safe Furry",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_furry, rating_safe",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_pony"
+  },
+  {
+    "name": "Ponystyle Safe Pony",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_pony, rating_safe",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_furry"
+  },
+  {
+    "name": "Ponystyle Questionable Anime",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_anime, rating_questionable",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_cartoon, source_furry, source_pony"
+  },
+  {
+    "name": "Ponystyle Questionable Cartoon",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_cartoon, rating_questionable",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_furry, source_pony"
+  },
+  {
+    "name": "Ponystyle Questionable Furry",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_furry, rating_questionable",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_pony"
+  },
+  {
+    "name": "Ponystyle Questionable Pony",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_pony, rating_questionable",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_furry"
+  },
+  {
+    "name": "Ponystyle Explicit Anime",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_anime, rating_explicit",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_cartoon, source_furry, source_pony"
+  },
+  {
+    "name": "Ponystyle Explicit Cartoon",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_cartoon, rating_explicit",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_furry, source_pony"
+  },
+  {
+    "name": "Ponystyle Explicit Furry",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_furry, rating_explicit",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_pony"
+  },
+  {
+    "name": "Ponystyle Explicit Pony",
+    "prompt": "score_9, score_8_up, score_7_up, {prompt}, source_pony, rating_explicit",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_furry"
+  },
+  {
+    "name": "Ponystyle Safe Realistic",
+    "prompt": "score_9, score_8_up, score_7_up, RAW photo, realistic, {prompt}, rating_safe",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_furry"
+  },
+  {
+    "name": "Ponystyle Questionable Realistic",
+    "prompt": "score_9, score_8_up, score_7_up, RAW photo, realistic, {prompt}, rating_questionable",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_furry"
+  },
+  {
+    "name": "Ponystyle Explicit Realistic",
+    "prompt": "score_9, score_8_up, score_7_up, RAW photo, realistic, {prompt}, rating_explicit",
+    "negative_prompt": "score_5_up, score_4_up, score_3_up, monochrome, censored, source_anime, source_cartoon, source_furry"
+  }
+]
